@@ -34,4 +34,4 @@ The application uses data from https://catalog.data.gov/dataset/air-traffic-pass
    pip install -r requirements.txt
 
 ## Demo
-[text](https://youtu.be/UMsRASAm1Mk)
+https://youtu.be/UMsRASAm1Mk
